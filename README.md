@@ -1,0 +1,1 @@
+# boyut_ve_konum_iliskisi
