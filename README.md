@@ -14,9 +14,9 @@ Bu görsel temsil, öğrencilerin üslü sayıların matematiksel anlamını geo
 Etkinliğin öğrencilere sağladığı eğitsel imkanlar:
 
 <li>Soyut matematiksel kavramları (üslü sayılar) somut görsel modellerle ilişkilendirme</li>
-Boyut kavramını matematiksel olarak anlama
-Üslü ifadelerin geometrik yorumunu kavrama
-İnteraktif öğrenme deneyimi yaşama
-Örüntüleri keşfetme ve matematiksel genellemelere ulaşma
+<li>Boyut kavramını matematiksel olarak anlama</li>
+<li>Üslü ifadelerin geometrik yorumunu kavrama</li>
+<li>İnteraktif öğrenme deneyimi yaşama</li>
+<li>Örüntüleri keşfetme ve matematiksel genellemelere ulaşma</li>
 
 Bu tür görsel ve interaktif materyaller, özellikle soyut matematiksel kavramların öğrenilmesinde önemli rol oynar ve öğrencilerin matematiği daha anlamlı bir şekilde kavramalarına yardımcı olur.
